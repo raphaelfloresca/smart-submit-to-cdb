@@ -10,7 +10,7 @@ This Python script runs the submitCreator API endpoint for YouTube and returns i
 
 You will need Python 3 installed on your system as well as the `requests` library. I would recommend using [pyenv](https://github.com/pyenv/pyenv) and [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) to handle dependencies and virtual environments.
 
-# How to use
+## How to use
 
 Clone this repository and add a list of creators as a `.csv` file in the directory called `input.csv`. Run the script as so:
 
